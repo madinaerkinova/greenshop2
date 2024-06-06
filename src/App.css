@@ -1,0 +1,73 @@
+a {
+  text-decoration: none;
+  list-style: none;
+}
+
+
+.rotate {
+  animation: rotation 1s infinite;
+}
+
+
+
+.css-cjctlb-MuiButtonBase-root-MuiTab-root {
+  color: #3D3D3D !important;
+}
+
+.css-cjctlb-MuiButtonBase-root-MuiTab-root.Mui-selected {
+  color: #46A358 !important;
+}
+
+.css-sghohy-MuiButtonBase-root-MuiButton-root {
+  background-color: #46A358 !important;
+}
+
+.css-1wnsr1i {
+  padding: 0 !important;
+  width: 578px !important;
+  /* margin: auto !important; */
+  position: absolute !important;
+  top: 50% !important;
+  left: 50% !important;
+  height: auto !important;
+  translate: 20% !important;
+}
+
+.css-1wnsr1i {
+  border: 0px !important;
+}
+
+.css-1aquho2-MuiTabs-indicator {
+  color: #46A358;
+  background-color: #46A358 !important;
+}
+
+.MuiInputLabel-formControl .MuiInputLabel-animated .MuiInputLabel-sizeMedium .MuiInputLabel-outlined .MuiFormLabel-colorPrimary .MuiInputLabel-root .MuiInputLabel-formControl .MuiInputLabel-animated .MuiInputLabel-sizeMedium .MuiInputLabel-outlined .css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root {
+  color: #46A358 !important;
+}
+
+
+.css-1jy569b-MuiFormLabel-root-MuiInputLabel-root,
+.Mui-focused {
+  color: #46A358 !important;
+}
+
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root {
+  color: #4c4635 !important;
+  opacity: 0.9 !important;
+}
+
+.MuiOutlinedInput-notechedOutline,
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+  border: 1px solid #46A358 !important;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}

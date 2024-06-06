@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+
+/* Social media icons */
+.fab {
+  font-size: 16px;
+  color: #4caf50;
+}
+
+/* Payments image */
+img {
+  max-width: 100%;
+}
+.slide {
+  display: flex !important;
+}
